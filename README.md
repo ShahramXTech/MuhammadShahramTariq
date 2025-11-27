@@ -1,49 +1,58 @@
-👋 Hi, I’m @Muhammad Shahram Tariq
+👋 **Hi, I’m @Muhammad Shahram Tariq**
 
-👀 I’m passionate about computer technology, programming, electronics, and game development. I love exploring how software, hardware, and digital circuits work together to solve real-world problems.
+👀 I’m passionate about **computer technology, programming, game development, and computer hardware**. I enjoy exploring how **software and hardware** interact to solve real-world problems.
 
-🌱 I’m currently pursuing a degree in Software Engineering at AIR University. My studies focus on Programming Fundamentals, Data Structures & Algorithms (DSA), Digital Logic Design (DLD), Artificial Intelligence (AI), ICT, and Software Engineering & SDLC.
+🌱 I’m currently pursuing a **Software Engineering degree at AIR University**. My studies focus on **programming fundamentals, software design, DSA, DLD, AI, ICT, and SDLC**.
 
-💻 Technical Skills & Knowledge Areas
+💻 **My technical skills and learning areas include:**
 
-Programming Languages: C++, Java, Python
+**Programming Languages:** C++, Java, Python, C#
+**Core Concepts:** OOP, Data Structures & Algorithms (DSA), Problem-Solving
+**Technologies:** Basics of AI, Web Development (exploring)
+**Academic Subjects:** ICT, SDLC, DLD, PF, OOP
 
-Core Concepts: OOP, DSA (learning), Algorithms, problem-solving
+🖥️ **Computer Hardware Expertise**
 
-Technologies: Basics of AI, Web Development (exploring)
+I have **3–4 years of hands-on experience** with computer hardware, including:
 
-Academic Subjects: DLD, ICT, Software Engineering, SDLC
+* Repairing and troubleshooting computer issues
+* Building and upgrading PC systems
+* Buying and selling computer components
+* Handling performance tuning and compatibility checks
+* Solving IT/hardware-related problems efficiently
 
-🖥️ Electronics & Computer Hardware Expertise
+🛠️ **Projects I have worked on:**
 
-I have 3–4 years of strong experience in computer hardware, including:
+### **C++ / PF Projects**
 
-Building, troubleshooting, and repairing computer systems
+* Billing System
+* Average Calculator
+* Compound Interest Program
+* Savings Balance System
+* Bitwise Operations
+* Multiple Beginner-to-Intermediate programs
+* Quiz Games
 
-Solving hardware and IT-related issues
+### **Java / OOP Projects**
 
-Buying and selling PC components
+* Management Systems
+* Quiz and Logic-Based Games
+* File-handling based applications
 
-Understanding compatibility, performance tuning, and system upgrades
+### **C# Projects**
 
-This gives me a complete understanding of both hardware and software, allowing me to work efficiently in mixed tech environments.
+* **Complete Bank Management System** (Accounts, Transactions, Balance, User Handling)
 
-🛠️ Projects I Have Worked On
+### **DLD Project**
 
-DLD Project – implemented using digital logic concepts
+* Digital logic–based circuit design project
 
-Management Systems in Java (OOP)
+💞️ **Collaboration Interests**
 
-C++ Programs – average calculator, billing system, compound interest, savings balance, bitwise operations, and more
+I’m interested in collaborating on **AI, Web Development, Software Engineering, and hardware-related projects** to gain more practical knowledge.
 
-Python Projects – problem-solving tasks and exploring basic AI concepts
+⚡ **Fun fact:**
+I love working with **both software and hardware**, giving me a balanced and complete perspective on technology.
 
-💞️ Collaboration Interests
-
-I’m interested in collaborating on AI, Web Development, hardware-related setups, and software engineering projects to gain more practical experience.
-
-⚡ Fun Fact:
-I enjoy working with both hardware and software, giving me a balanced and practical understanding of technology.
-
-📫 How to reach me:
-📩 sardarwert302@gmail.com
+📫 **How to reach me:**
+📩 *[sardarwert302@gmail.com](mailto:sardarwert302@gmail.com)*
