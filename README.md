@@ -1,31 +1,49 @@
 👋 Hi, I’m @Muhammad Shahram Tariq
 
-👀 I’m passionate about computer technology, programming, and game development. I enjoy exploring how software and hardware work together to solve real-world problems.
+👀 I’m passionate about computer technology, programming, electronics, and game development. I love exploring how software, hardware, and digital circuits work together to solve real-world problems.
 
-🌱 I’m currently pursuing a degree in Software Engineering at AIR University . My studies focus on programming fundamentals, software design, and problem-solving.
+🌱 I’m currently pursuing a degree in Software Engineering at AIR University. My studies focus on Programming Fundamentals, Data Structures & Algorithms (DSA), Digital Logic Design (DLD), Artificial Intelligence (AI), ICT, and Software Engineering & SDLC.
 
-💻 My technical skills and areas of learning include:
+💻 Technical Skills & Knowledge Areas
 
 Programming Languages: C++, Java, Python
 
-Core Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA – currently learning)
+Core Concepts: OOP, DSA (learning), Algorithms, problem-solving
 
-Technologies: Artificial Intelligence (AI – learning basics), Web Development (still exploring)
+Technologies: Basics of AI, Web Development (exploring)
 
-Tools & IDEs: Eclipse, Visual Studio, GitHub
+Academic Subjects: DLD, ICT, Software Engineering, SDLC
 
-🛠️ Projects I have worked on:
+🖥️ Electronics & Computer Hardware Expertise
 
-Management Systems in Java (OOP) – built in Eclipse
+I have 3–4 years of strong experience in computer hardware, including:
 
-Beginner-to-Intermediate C++ Programs – average calculator, billing system, compound interest, savings balance, bitwise operators, and more
+Building, troubleshooting, and repairing computer systems
 
-Hands-on practice in Python for problem-solving and exploring AI concepts
+Solving hardware and IT-related issues
 
-💞️ I’m interested in collaborating on learning-focused projects in AI, Web Development, and Software Engineering applications to gain practical experience.
+Buying and selling PC components
 
-📖 I am also studying Introduction to Software Engineering, ICT, and SDLC as part of my academic journey.
+Understanding compatibility, performance tuning, and system upgrades
 
-⚡ Fun fact: I enjoy working with both hardware and software, which gives me a complete perspective on technology.
+This gives me a complete understanding of both hardware and software, allowing me to work efficiently in mixed tech environments.
 
-📫 How to reach me: (sardarwert302@gmail.com).
+🛠️ Projects I Have Worked On
+
+DLD Project – implemented using digital logic concepts
+
+Management Systems in Java (OOP)
+
+C++ Programs – average calculator, billing system, compound interest, savings balance, bitwise operations, and more
+
+Python Projects – problem-solving tasks and exploring basic AI concepts
+
+💞️ Collaboration Interests
+
+I’m interested in collaborating on AI, Web Development, hardware-related setups, and software engineering projects to gain more practical experience.
+
+⚡ Fun Fact:
+I enjoy working with both hardware and software, giving me a balanced and practical understanding of technology.
+
+📫 How to reach me:
+📩 sardarwert302@gmail.com
