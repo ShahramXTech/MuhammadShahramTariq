@@ -1,4 +1,4 @@
-👋 Hi, I’m @MuhammadShahramTariq
+👋 Hi, I’m @Muhammad Shahram Tariq
 
 👀 I’m passionate about computer technology, programming, and game development. I enjoy exploring how software and hardware work together to solve real-world problems.
 
